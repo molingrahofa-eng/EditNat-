@@ -6,7 +6,7 @@ import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, CallbackQueryHandler, MessageHandler, filters
 
-TELEGRAM_BOT_TOKEN = "5831048319:AAHhJ_z2uFxhWW2JnBa25dh7iunjXYVJf-Q"
+TELEGRAM_BOT_TOKEN = "6241875863:AAHaY4dyL86Si42IV-plN6WU0BC3ecxokF4"
 ADMIN_USER_ID = 5952132218  # ضع معرف التيليجرام الخاص بك هنا
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
